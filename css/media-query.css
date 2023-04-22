@@ -37,6 +37,12 @@
         width: 100%;
     }
     
+    .header .logo::before {
+        left: 38%;
+        top: 8px;
+        
+    }
+
     .header .main-nav {
         margin: auto;
     }
